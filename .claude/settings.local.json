@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/adityaanand/Desktop/narla -type f -name *.json -o -name *.js -o -name *.ts -o -name .*rc -o -name .env* -o -name *.config.*)"
+    ]
+  }
+}
